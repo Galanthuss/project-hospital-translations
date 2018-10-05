@@ -1,12 +1,13 @@
 ﻿<Database>
-    <GameDBStringTable ID="LOC_EN_DIAGNOSES">
+    <GameDBStringTable ID="LOC_DA_DIAGNOSES">
         
-        <LanguageCode>en</LanguageCode>
-        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <LanguageCode>da</LanguageCode>
+        <LanguageNameLocalized>Dansk</LanguageNameLocalized>
 
         <Contributors>
             <Name>Oxymoron Games</Name>
             <Name>Bo Kelly</Name>
+            <Name>Cindy van Harten</Name>
         </Contributors>
         
         <LocalizedStrings>
@@ -14,39 +15,39 @@
             <!-- ============================ -->
             <!-- Diagnoses - Emergency -->
             <!-- ============================ -->
-            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Pork tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Beef tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Chickenpox</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with Varicella zoster virus. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Shingles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Shingles is an infection caused by a reactivation of varicella-zoster virus. The disease results in a red skin rash that forms small blisters in a wide stripe following the course of a dermatome. Shingles can be extremely painful.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Nail fungus</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>Nail fungus, also called Onychomycosis or Tinea unguium, is a fungal infection that affects fingers or toenails.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>Athlete’s foot</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>Athlete’s foot, also called Tinea pedis, is a highly contagious skin infection of the feet caused by fungi.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>Iron-deficiency anemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>Anemia is defined as a reduced ability of the blood to carry oxygen. This can be caused by a decrease in red blood cells or hemoglobin. Iron-deficiency anemia is the most common form of anemia.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>Lactose intolerance</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LIN_DESCRIPTION</LocID>             <Text>Lactose intolerance is the inability to digest lactose, a sugar found in milk products. Undigested lactose can result in bloating, diarrhea, gas or abdominal pain.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CLD</LocID>                         <Text>Common cold</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CLD_DESCRIPTION</LocID>             <Text>Common cold is a viral infection located to the upper respiratory system, usually the nose.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ASN</LocID>                         <Text>Sinusitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ASN_DESCRIPTION</LocID>             <Text>Sinusitis refers to inflammation of one or more sinuses. Sinusitis causes swelling and can compromise drainage of mucus or pus from the involved sinus cavity.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APH</LocID>                         <Text>Pharyngitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>Pharyngitis refers to inflammation of the throat and can be caused by bacteria or virus.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANG</LocID>                         <Text>Bacterial tonsillitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>Bacterial tonsillitis is an infection of the tonsils. The most common bacterial tonsillitis is caused by Streptococcus pyogenes, and is known as strep throat.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>Viral tonsillitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANV_DESCRIPTION</LocID>             <Text>Viral tonsillitis is an infection of the tonsils and can be caused by several viral agents.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Bændelorm fra svinekød</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Bændelorm fra svinekød (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Bændelorm fra oksekød</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Bændelorm fra oksekød (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Skoldkopper</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Skoldkopper, også kendt som varicella, er en yderst smitsom sygdom forårsaget af smitte med Varicella zoster virus. Sygdommen medfører et karakteristisk hududslæt der giver små, kløende vabler, som til sidst tørrer ud og får skorper.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Helvedesild</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Helvedesild er en infektion forårsaget af varicella-zostervirus. Sygdommen resulterer i et rødt hududslæt som giver små vabler i en bred stribe der følger et dermatom. Helvedesild kan være utroligt smertefuldt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Neglesvamp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>Neglesvamp, også kaldet Onychomycosis eller Tinea unguim, er en svampeinfektion der rammer finger- og tånegle.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>Fodsvamp</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>Fodsvamp, også kaldet Tinea pedis, er en yderst smitsom hudinfektion på fødderne, forårsaget af svamp.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>Blodmangel</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>Blodmangel, også kaldet anæmi, defineres som nedsat evne i blodet til at transportere ilt. Dette kan forårsages af et fald i røde blodlegemer eller hæmoglobin. Anæmi som følge af jernmangel er den mest hyppige form.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>Laktoseintolerance</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN_DESCRIPTION</LocID>             <Text>Laktoseintolerance er den manglende evne til at fordøje laktose, et sukkerstof der forefindes i mælkeprodukter. Ufordøjet laktose kan medføre oppustethed, diare, luft i maven og mavesmerter.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLD</LocID>                         <Text>Forkølelse</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLD_DESCRIPTION</LocID>             <Text>Forkølelse er en virusinfektion der rammer de øvre luftveje, oftest næsen.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASN</LocID>                         <Text>Bihulebetændelse</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASN_DESCRIPTION</LocID>             <Text>Bihulebetændelse refererer til inflammation af en eller flere bihuler. Bihulebetændelse forårsager hævelse og kan hindre snot og slim fra at løbe væk fra den inflammerede bihule.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH</LocID>                         <Text>Faryngitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>Faryngitis refererer til inflammation af halsen og kan forårsages af bakterier eller virus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANG</LocID>                         <Text>Bacteriel tonsillitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>Bacteriel tonsillitis er en infektion i mandlerne. Den mest udbredte bakterielle tonsillitis forårsages af Streptococcus pyogenes og kendes også som bakteriel halsbetændelse.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>Virusbetinget tonsillitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANV_DESCRIPTION</LocID>             <Text>Virusbetinget tonsillitis er en infektion i mandlerne og kan være forårsaget af adskillige forskellige vira.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>Laryngitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>Laryngitis refers to inflammation of the voice box. It can be caused by bacteria or virus, but also because of excessive voice use.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>Laryngitis refererer til inflammation af struben. Det kan forårsages af bakterier eller virus, men også af overdreven brug af stemmen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>Influenza</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Influenza, commonly known as 'the flu', is a common infectious disease caused by the influenza virus family.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronchitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronchitis is an inflammation of the lower airways called bronchi and is usually caused by virus.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Hay fever</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Influenza er en almindelig infektionssygdom forårsaget influenzavirus.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronkitis</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronkitis er en inflammation af de nedre luftveje, kaldet bronkier, og er som regel forårsaget af virus. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Høfeber</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Hay fever, medically known as allergic rhinitis, is an inflammation in the nose caused by an allergic reaction to an allergen in the air, such as pollen. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>Contact dermatitis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>Contact dermatitis is a localized rash or irritation of the skin caused by contact to an allergen or irritant.</Text>  </GameDBLocalizedString>
